@@ -4,12 +4,12 @@
 
 ## Woche 1 
 
-__DD.MM.JJJJ - DD.MM.JJJJ__
+20.04.2020 - 26.04.
 
-| Datum | Tätigkeit | Dauer | Zusatz |
-| ----- | --------- | ----- | ------ |
-|       |           |       |        |
-|       |           |       |        |
+| Datum      | Tätigkeit    | Dauer | Zusatz |
+| ---------- | ------------ | ----- | ------ |
+| 20.04.2020 | Zoom-Meeting | 1,5 h |        |
+|            |              |       |        |
 
-__Gesamte Zeit ca  Stunden__ 
+__Gesamte Zeit ca 1,5 Stunden__ 
 
