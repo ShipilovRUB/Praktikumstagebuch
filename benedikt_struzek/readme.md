@@ -6,7 +6,7 @@ __20.04.2020 - 24.04.2020__
 
 | Datum | Tätigkeit | Dauer | Zusatz |
 | ----- | --------- | ----- | ------ |
-| 21.04 | Microservice | 02:00h |    |
+| 21.04 | Allgemeine Teambesprechung | 02:00h |    |
 | 22.04 | Auth Besprechung | 0:45h | |
 | 24.04 | Evaluation Firebase Auth | 1:00h | |
 
