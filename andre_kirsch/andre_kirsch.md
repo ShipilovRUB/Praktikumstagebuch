@@ -1,4 +1,4 @@
-# NAME Projekt Tagebuch
+# André Kirsch Projekt Tagebuch
 
 
 
