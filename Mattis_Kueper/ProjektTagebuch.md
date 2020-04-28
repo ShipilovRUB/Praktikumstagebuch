@@ -15,12 +15,12 @@ __20.04.2020 - 27.04.2020__
 
 ## Woche 2 
 
-__DD.MM.JJJJ - DD.MM.JJJJ__
+__28.04.2020 - 05.05.2020__
 
 | Datum | Tätigkeit | Dauer | Zusatz |
 | ----- | --------- | ----- | ------ |
-|       |           |       |        |
-|       |           |       |        |
+| 28.04.       | Besprechung mit Team, Übersicht geplanter Funktionen von jedem Microservice          |  1h     |        |
+| 28.04.      | Ausarbeitung der User Stories und Schnittstellen für eigenen Microservice          |  1.5h     |        |
 
 
 ## Woche ....
