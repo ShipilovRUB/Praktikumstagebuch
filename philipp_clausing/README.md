@@ -32,4 +32,4 @@ __DD.MM.JJJJ - DD.MM.JJJJ__
 
 
 
-__Gesamte Zeit ca. 02:30 Stunden__ 
+__Gesamte Zeit ca. 04:15 Stunden__ 
