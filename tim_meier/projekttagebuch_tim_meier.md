@@ -8,7 +8,7 @@ __20.04.2020- 26.04.2020
 
 | Datum      | Tätigkeit                 | Dauer | Zusatz |
 | ---------- | ------------------------- | ----- | ------ |
-| 20.04.2020 | git start			       | 0.5h |        |
+| 20.04.2020 | git start			     | 0.5h  |        |
 | 21.04.2020 | Teambesprechung           | 1.5h  |        |
 | 21.04.2020 | docsify einlesen/einbauen | 1h    |        |
 
@@ -21,8 +21,9 @@ __27.04.2020 - 03.05.2020__
 | Datum      | Tätigkeit                   | Dauer | Zusatz |
 | ---------- | --------------------------- | ----- | ------ |
 | 28.04.2020 | Schnittstellen/User Stories | 0.5h  |        |
-| 28.04.2020 | Teambesprechung             |       |        |
+| 28.04.2020 | Teambesprechung             | 1.5h  |        |
+| 28.04.2020 | docsify fix und spezifikation| 0.5h  |        |
 
 
 
-__Gesamte Zeit ca. 3.5 Stunden__ 
+__Gesamte Zeit ca. 5.5 Stunden__ 
