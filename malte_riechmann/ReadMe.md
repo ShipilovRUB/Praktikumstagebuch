@@ -23,7 +23,9 @@ __27.04.2020 - 03.04.2020__
 | 28.04.2020 | Repositories aufsetzen und erste User Stories | 1h    |        |
 | 28.04.2020 | Rolle als Softwarearchitekt besprechen        | 1,5h  |        |
 | 28.04.2020 | Besprechung mit Kommilitonen                  | 1,5h  |        |
+| 02.05.2020 | Use Case Diagramme + User Stories             | 1,5h  |        |
+| 02.05.2020 | Allgemeine Vorgaben für die Spezifikation     | 1h    |        |
 
-__Gesamte Zeit ca 4h Stunden__ 
+__Gesamte Zeit ca 6,5h Stunden__ 
 
-__Gesamte Zeit ca 7,5h Stunden__ 
+__--> Gesamte Zeit ca 10,5h Stunden__ 
