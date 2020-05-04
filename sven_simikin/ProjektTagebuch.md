@@ -14,13 +14,28 @@ __20.04.2020 - 24.04.2020__
 | 22.04.2020 | Erstellung docsify Dokumentation | 30  Minuten | Erstellung einer simplen struktur für die Api-Spezifikation in docsify.                               |
 | 23.04.2020 | Fortsetzung des Pflichtenheftes  | 30  Minuten | Ausarbeitung der Sektion 1, hinzufügen der Projektbeschreibung.                                       |
 
+__Zeit ca. 7 Stunde(n)__
 ## Woche 2 
 
 __27.04.2020 - 05.05.2020__
 
-| Datum      | Tätigkeit                        | Dauer       | Zusatz                                                                                                |
-| ---------- | -------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------- |
-| 28.04.2020 | Meeting mit Herr Riechmann       | 90  Minuten | Spezifikation der Anforderungen für das Pflichtenheft. Klärung missverständnisse der Spezifikation.   |
-| 28.04.2020 | Meeting mit der SGSE-Gruppe      | 90  Minuten | Besprechung der einzelnen __MS__ und der Anwendungszwecke. Spezifikation der API allgemein.           |
+| Datum      | Tätigkeit                          | Dauer       | Zusatz                                                                                                   |
+| ---------- | ---------------------------------- | ----------- | -------------------------------------------------------------------------------------------------------- |
+| 28.04.2020 | Meeting mit Herr Riechmann         | 90  Minuten | Spezifikation der Anforderungen für das Pflichtenheft. Klärung missverständnisse der Spezifikation.      |
+| 28.04.2020 | Meeting mit der SGSE-Gruppe        | 90  Minuten | Besprechung der einzelnen __MS__ und der Anwendungszwecke. Spezifikation der API allgemein.              |
+| 30.04.2020 | Vergleich von Programmiersprachen  | 30  Minuten | Programmiersprachen und Datenbanklösungen für den Einsatz der __MS__ Entwickelung wurden verglichen.     |
+| 29.04.2020 | Erstellung User Stories/ UseCase   | 60  Minuten | Für die Softwarespezifikation wurden User Stories erstellt und Use Case-Diagramme abgeleitet.            |
+| 02.05.2020 | Meeting mit Herr Riechmann         | 60  Minuten | Nach der offenen Wahl der zu spezifizierenden Schnittstellen wurde ein finales Dokument veröffentlicht.  |
+| 03.05.2020 | Einarbeitung gRPC, Beispielprojekt | 300 Minuten | Einarbeitung in gRPC und Erstellung eines Beispielprojektes für eine interne Präsentation am 05.05.2020. |
 
-__Gesamte Zeit ca. 10 Stunde(n)__
+__Zeit ca. 10.5 Stunde(n)__
+## Woche 2 
+
+__04.05.2020 - 10.05.2020__
+
+| Datum      | Tätigkeit                        | Dauer       | Zusatz                                                                                                  |
+| ---------- | -------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------- |
+
+__Zeit ca. 0 Stunde(n)__
+
+__Gesamte Zeit ca. 17.5 Stunde(n)__
