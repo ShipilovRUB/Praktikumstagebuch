@@ -29,7 +29,7 @@ __27.04.2020 - 05.05.2020__
 | 03.05.2020 | Einarbeitung gRPC, Beispielprojekt | 300 Minuten | Einarbeitung in gRPC und Erstellung eines Beispielprojektes für eine interne Präsentation am 05.05.2020. |
 
 __Zeit ca. 10.5 Stunde(n)__
-## Woche 2 
+## Woche 3 
 
 __04.05.2020 - 10.05.2020__
 
