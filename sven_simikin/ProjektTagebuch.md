@@ -33,9 +33,11 @@ __Zeit ca. 10.5 Stunde(n)__
 
 __04.05.2020 - 10.05.2020__
 
-| Datum      | Tätigkeit                        | Dauer       | Zusatz                                                                                                  |
-| ---------- | -------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------- |
+| Datum      | Tätigkeit                        | Dauer       | Zusatz                                                                                                               |
+| ---------- | -------------------------------- | ----------- | -------------------------------------------------------------------------------------------------------------------- |
+| 05.05.2020 | Meeting mit der SGSE-Gruppe      | 90  Minuten | Besprechung und Vorstellung zu verwendender Technologien. Setzen interner Meilensteine für die Projektspezifikation. |
+| 05.05.2020 | Aktualisierung Use-Case Diagramm | 30  Minuten | Anhand der im Meeting besprochenen Schnittstellen Sammlung wurden die Use-Cases und User Stories aktualisiert.       |
 
-__Zeit ca. 0 Stunde(n)__
+__Zeit ca. 2 Stunde(n)__
 
-__Gesamte Zeit ca. 17.5 Stunde(n)__
+__Gesamte Zeit ca. 19.5 Stunde(n)__
