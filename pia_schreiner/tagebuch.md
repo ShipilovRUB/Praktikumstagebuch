@@ -24,9 +24,17 @@ __27.04.2020 - 03.05.2020__
 |   28.04.2020    |     Teambesprechung - Gesamtteam      |   1,5h    |        |
 |   30.04.2020    |     Definition Userstories            |   0,5h    |        |
 |   02.05.2020    |     Anpassen Userstories, Erstellen Usecase Diagramme     |   0,75h    |        |
+|   03.05.2020    |     Evaluation Software Architektur    |   1,5h    |        |
+
+## Woche 3 
+
+__04.05.2020 - 10.05.2020__
+
+| Datum | Tätigkeit | Dauer | Zusatz |
+| ----- | --------- | ----- | ------ |
+|   05.05.2020    |     Teambesprechung - Gesamtteam      |   1,5h    |        |
+|   06.05.2020    |     Firebase Auth einrichten und Beispiel mit Erklärung zur Verfügung stellen      |   1,0h    |        |
 
 
 
-
-
-__Gesamte Zeit 7,5 Stunden__ 
+__Gesamte Zeit 11,5 Stunden__ 
