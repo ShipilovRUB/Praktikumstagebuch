@@ -37,7 +37,8 @@ __04.05.2020 - 10.05.2020__
 | ---------- | -------------------------------- | ----------- | -------------------------------------------------------------------------------------------------------------------- |
 | 05.05.2020 | Meeting mit der SGSE-Gruppe      | 90  Minuten | Besprechung und Vorstellung zu verwendender Technologien. Setzen interner Meilensteine für die Projektspezifikation. |
 | 05.05.2020 | Aktualisierung Use-Case Diagramm | 30  Minuten | Anhand der im Meeting besprochenen Schnittstellen Sammlung wurden die Use-Cases und User Stories aktualisiert.       |
+| 06.05.2020 | Interne Präsentation gRPC        | 60  Minuten | Die zuvor erstellte Präsentation mit dem Thema gRPC wurde in einer internen Vorstellung präsentiert.                 |
 
-__Zeit ca. 2 Stunde(n)__
+__Zeit ca. 3 Stunde(n)__
 
-__Gesamte Zeit ca. 19.5 Stunde(n)__
+__Gesamte Zeit ca. 20.5 Stunde(n)__
