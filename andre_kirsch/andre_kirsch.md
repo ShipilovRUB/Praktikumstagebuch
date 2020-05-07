@@ -8,8 +8,8 @@ __20.04.2020 - 24.04.2020__
 
 | Datum | Tätigkeit       | Dauer | Zusatz |
 | ----- | --------------- | ----- | ------ |
+| 20.04 | Kick Off        | 0:30h |        |
 | 21.04 | Teambesprechung | 1:30h |        |
-|       |                 |       |        |
 
 
 
@@ -25,4 +25,17 @@ __27.04.2020 - 01.05.2020__
 
 
 
-__Gesamte Zeit ca 4:00 Stunden__ 
+## Woche 3 
+
+__04.05.2020 - 08.05.2020__
+
+| Datum | Tätigkeit                                 | Dauer | Zusatz |
+| ----- | ----------------------------------------- | ----- | ------ |
+| 04.05 | Spezifikation überarbeitet und erweitert  | 0:30h |        |
+| 05.05 | Teambesprechung                           | 1:15h |        |
+| 06.05 | gRPC Präsentation von Sven teilgenommen   | 1:00h |        |
+| 07.05 | Spezifikation, Schnittstellen und Mockups | 2:30h |        |
+
+
+
+__Gesamte Zeit ca 9:45 Stunden__ 
