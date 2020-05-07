@@ -6,9 +6,9 @@
 
 __20.04.2020 - 26.04.2020__
 
-| Datum      | Tätigkeit    | Dauer | Zusatz |
-| ---------- | ------------ | ----- | ------ |
-| 20.04.2020 | Zoom Meeting | 1,5 h |        |
+| Datum      | Tätigkeit   | Dauer | Zusatz |
+| ---------- | ----------- | ----- | ------ |
+| 20.04.2020 | Besprechung | 1,5 h |        |
 
 
 
@@ -20,5 +20,17 @@ __27.04.2020 - 03.05.2020__
 | ---------- | ----------------------------------------- | ----- | ------ |
 | 27.04.2020 | UserStories: Bank                         | 1,5 h |        |
 | 27.04.2020 | Schnittstellen und Technologien definiert | 1 h   |        |
+| 28.04.2020 | Besprechung                               | 1,5h  |        |
 
-__Gesamte Zeit ca 4 Stunden__ 
+## Woche 3 
+
+__04.05.2020 - 10.05.2020__
+
+| Datum      | Tätigkeit        | Dauer | Zusatz |
+| ---------- | ---------------- | ----- | ------ |
+|            |                  |       |        |
+| 07.05.2020 | Mockups erstellt | 1,5 h |        |
+
+
+
+__Gesamte Zeit ca 7 Stunden 0 Minuten__ 

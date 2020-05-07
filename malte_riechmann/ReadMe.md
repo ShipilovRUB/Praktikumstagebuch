@@ -28,4 +28,14 @@ __27.04.2020 - 03.04.2020__
 
 __Gesamte Zeit ca 6,5h Stunden__ 
 
-__--> Gesamte Zeit ca 10,5h Stunden__ 
+## Woche 3
+
+__04.05.2020 - 10.04.2020__
+
+| Datum      | Tätigkeit                                     | Dauer | Zusatz |
+| ---------- | --------------------------------------------- | ----- | ------ |
+| 04.05.2020 | Pflichtenheft + Mockups | 2h |        |
+|  |         |   ||
+__Gesamte Zeit ca 2h Stunden__ 
+
+__--> Gesamte Zeit ca 12,5h Stunden__ 
