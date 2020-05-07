@@ -15,6 +15,7 @@ __20.04.2020 - 26.04.2020__
 |   25.04.2020   |     Ideensammlung für Microservice, erste Use-Cases evaluiert     |    1,0h   |
 
 
+
 ## Woche 2 
 
 __27.04.2020 - 03.05.2020__
@@ -25,6 +26,8 @@ __27.04.2020 - 03.05.2020__
 |   30.04.2020    |     Definition UserStories            |   0,5h    |
 |   02.05.2020    |     Anpassen User Stories, Erstellen Use-Case Diagramme     |   0,75h    |
 |   03.05.2020    |     Evaluation Software Architektur    |   1,5h    |
+
+
 
 ## Woche 3 
 
@@ -37,7 +40,11 @@ __04.05.2020 - 10.05.2020__
 | 06.05.2020 | Überblick zu gRPC mit dem Team besprechen | 1,0h |
 | 07.05.2020 | User Stories und Use-Case Diagramme überarbeitet und Schnittstellen definiert | 1,5h |
 | 07.05.2020 | Mockups erstellt | 1,5h |
+| 07.05.2020 | Software Architektur und Systemübersicht Diagrammerstellung | 0,5h |
+| 08.05.2020 | Beschreibung des Datenmodells, einige weitere Eintragungen in der Spezifikation | 0,75h |
 
 
 
-__Gesamte Zeit 15,5 Stunden__ 
+
+
+__Gesamte Zeit 16,75 Stunden__ 
