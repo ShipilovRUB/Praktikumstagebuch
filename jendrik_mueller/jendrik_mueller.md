@@ -26,8 +26,17 @@ __27.04.2020 - 03.05.2020__
 | 02.05.2020 | Überarbeitung der User Stories und erstellen eines Use Case Diagramms | 0.75h |        |
 | 03.05.2020 | Einlesen in remark.js. Erstellen einer Einstiegsseite für die Präsentationen und erstellen eines Beispiels. | 1h    |        |
 
+## Woche 3 
+
+__04.05.2020 - 10.05.2020__
+
+| Datum      | Tätigkeit                                                    | Dauer | Zusatz |
+| ---------- | ------------------------------------------------------------ | ----- | ------ |
+| 05.05.2020 | Teambesprechung                                              | 1.5h  |        |
+| 07.05.2020 | Arbeiten an den Spezifikationen - Mockups - Systemübersicht - Ziele - Technologien | 2h    |        |
 
 
 
 
-__Gesamte Zeit ca 8.25 Stunden__ 
+
+__Gesamte Zeit ca 11.75 Stunden__ 
