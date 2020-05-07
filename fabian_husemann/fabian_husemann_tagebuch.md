@@ -26,11 +26,13 @@ __27.04.2020 - 03.05.2020__
 
 __04.05.2020 - 10.05.2020__
 
-| Datum      | Tätigkeit        | Dauer | Zusatz |
-| ---------- | ---------------- | ----- | ------ |
-|            |                  |       |        |
-| 07.05.2020 | Mockups erstellt | 1,5 h |        |
+| Datum      | Tätigkeit                                                    | Dauer | Zusatz |
+| ---------- | ------------------------------------------------------------ | ----- | ------ |
+| 05.05.2020 | Besprechung                                                  | 1.5 h |        |
+| 07.05.2020 | Mockups erstellt                                             | 1,5 h |        |
+| 07.05.2020 | Systemübersicht, Systemarchitektur und Schnittstellen weiter beschrieben | 1,5 h |        |
+|            |                                                              |       |        |
 
 
 
-__Gesamte Zeit ca 7 Stunden 0 Minuten__ 
+__Gesamte Zeit ca 10 Stunden 0 Minuten__ 
