@@ -34,9 +34,11 @@ __04.05.2020 - 10.05.2020__
 | ---------- | ------------------------------------------------------------ | ----- | ------ |
 | 05.05.2020 | Teambesprechung                                              | 1.5h  |        |
 | 07.05.2020 | Arbeiten an den Spezifikationen - Mockups - Systemübersicht - Ziele - Technologien | 2h    |        |
+| 08.05.2020 | Überarbeiten und Erweitern der Spezifikation - Mockups- Datenmodell - Schnittstellen - beschreibung - ziele, glossar | 3h    |        |
 
 
 
 
 
-__Gesamte Zeit ca 11.75 Stunden__ 
+__Gesamte Zeit ca 14.75 Stunden__ 
+
