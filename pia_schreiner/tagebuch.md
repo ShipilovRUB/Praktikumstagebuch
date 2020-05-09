@@ -42,9 +42,12 @@ __04.05.2020 - 10.05.2020__
 | 07.05.2020 | Mockups erstellt | 1,5h |
 | 07.05.2020 | Software Architektur und Systemübersicht Diagrammerstellung | 0,5h |
 | 08.05.2020 | Beschreibung des Datenmodells, einige weitere Eintragungen in der Spezifikation | 0,75h |
+| 09.05.2020 | Überarbeitung von Schnittstellen und Use-Case Diagrammen | 1,5h |
+| 09.05.2020 | Erstellung von Aktivitätsdiagrammen und einem Datenmodelldiagramm | 1,5h |
+| 09.05.2020 | Überarbeitung von Mockups und Ereignissen | 0,5h |
 
 
 
 
 
-__Gesamte Zeit 16,75 Stunden__ 
+__Gesamte Zeit 20,25 Stunden__ 
