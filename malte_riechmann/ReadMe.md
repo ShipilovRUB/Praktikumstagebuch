@@ -35,7 +35,8 @@ __04.05.2020 - 10.04.2020__
 | Datum      | Tätigkeit                                     | Dauer | Zusatz |
 | ---------- | --------------------------------------------- | ----- | ------ |
 | 04.05.2020 | Pflichtenheft + Mockups | 2h |        |
-|  |         |   ||
-__Gesamte Zeit ca 2h Stunden__ 
+| 06.05.2020 | ER | 2,5h ||
+| 08.05.2020 | Aktivitätsdiagramm | 1h ||
+__Gesamte Zeit ca 5,5h Stunden__ 
 
 __--> Gesamte Zeit ca 12,5h Stunden__ 
