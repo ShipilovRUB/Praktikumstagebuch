@@ -39,7 +39,9 @@ __04.05.2020 - 10.05.2020__
 | 05.05.2020 | Aktualisierung Use-Case Diagramm | 30  Minuten | Anhand der im Meeting besprochenen Schnittstellen Sammlung wurden die Use-Cases und User Stories aktualisiert.       |
 | 06.05.2020 | Interne Präsentation gRPC        | 60  Minuten | Die zuvor erstellte Präsentation mit dem Thema gRPC wurde in einer internen Vorstellung präsentiert.                 |
 | 08.05.2020 | Bearbeitung des Pflichtenheftes  | 240 Minuten | Es wurden alle Anforderungen bezüglich der Erstellung der Schnittstellen für die interne Abgabe (08.05.2020) erfüllt.|
+| 09.05.2020 | Bearbeitung des Pflichtenheftes  | 180 Minuten | Mit der Bearbeitung der Softwarespezifikation wurde fortgefahren. Mockups und Schnittstellen wurden überarbeitet.    |
+| 09.05.2020 | Überprüfung der Spezifikationen  | 180 Minuten | Die Spezifikationen der Softwareprojekte wurden überprüft und es wurden relevante Issues auf GitHub erstellt.        |
 
-__Zeit ca. 7 Stunde(n)__
+__Zeit ca. 13 Stunde(n)__
 
-__Gesamte Zeit ca. 24.5 Stunde(n)__
+__Gesamte Zeit ca. 30.5 Stunde(n)__
