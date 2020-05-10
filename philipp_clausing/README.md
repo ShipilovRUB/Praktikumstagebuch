@@ -32,6 +32,8 @@ __04.05.2020 - 10.05.2020__
 | ----- | --------- | ----- | ------ |
 | 04.05 | Messaging recherche | 1:30h | Vortrag und MS |
 | 05.05 | Besprechung | 0:45h |        |
+| 08.05 | Spezifikation schreiben | 1:20h |        |
+| 10.05 | Spezifikation fehler beheben | 0:30h |        |
 
 __Woche3 Gesamt: 2:15h__
 
@@ -46,4 +48,4 @@ __DD.MM.JJJJ - DD.MM.JJJJ__
 
 
 
-__Gesamte Zeit ca. 06:30 Stunden__ 
+__Gesamte Zeit ca. 07:20 Stunden__ 
