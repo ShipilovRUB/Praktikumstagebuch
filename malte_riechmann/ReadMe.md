@@ -35,11 +35,13 @@ __04.05.2020 - 10.04.2020__
 | Datum      | Tätigkeit                                     | Dauer | Zusatz |
 | ---------- | --------------------------------------------- | ----- | ------ |
 | 04.05.2020 | Pflichtenheft + Mockups | 2h |        |
+| 05.05.2020 | Besprechung mit Kommilitonen | 1,5h ||
 | 06.05.2020 | ER | 2,5h ||
 | 08.05.2020 | Aktivitätsdiagramm | 1h ||
 | 09.05.2020 | Software Architektur + weitere Anpassungen | 1h ||
 | 09.05.2020 | Spezifikationen prüfen | 3h ||
 | 10.05.2020 | Glossar, Mockups und Fehlerkorrektur | 2h ||
-__Gesamte Zeit ca 11,5h Stunden__ 
+| 10.05.2020 | Spezifikation aufschreiben | 1h ||
+__Gesamte Zeit ca 13h Stunden__ 
 
-__--> Gesamte Zeit ca 12,5h Stunden__ 
+__--> Gesamte Zeit ca 23h Stunden__ 
