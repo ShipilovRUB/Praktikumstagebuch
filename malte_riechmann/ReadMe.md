@@ -39,6 +39,7 @@ __04.05.2020 - 10.04.2020__
 | 08.05.2020 | Aktivitätsdiagramm | 1h ||
 | 09.05.2020 | Software Architektur + weitere Anpassungen | 1h ||
 | 09.05.2020 | Spezifikationen prüfen | 3h ||
-__Gesamte Zeit ca 9,5h Stunden__ 
+| 10.05.2020 | Glossar, Mockups und Fehlerkorrektur | 2h ||
+__Gesamte Zeit ca 11,5h Stunden__ 
 
 __--> Gesamte Zeit ca 12,5h Stunden__ 
