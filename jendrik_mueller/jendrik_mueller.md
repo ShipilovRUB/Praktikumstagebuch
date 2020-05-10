@@ -19,12 +19,28 @@ __20.04.2020- 26.04.2020__
 
 __27.04.2020 - 03.05.2020__
 
-| Datum      | Tätigkeit       | Dauer | Zusatz |
-| ---------- | --------------- | ----- | ------ |
-| 28.04.2020 | Teambesprechung | 1.5h  |        |
+| Datum      | Tätigkeit                                                    | Dauer | Zusatz |
+| ---------- | ------------------------------------------------------------ | ----- | ------ |
+| 28.04.2020 | Teambesprechung                                              | 1.5h  |        |
+| 01.05.2020 | Überblick verschaffen über verschiedene Protokolle (gRPC, GraphQL) und Programmiersprachen (Go, Rust, Ruby) | 1h    |        |
+| 02.05.2020 | Überarbeitung der User Stories und erstellen eines Use Case Diagramms | 0.75h |        |
+| 03.05.2020 | Einlesen in remark.js. Erstellen einer Einstiegsseite für die Präsentationen und erstellen eines Beispiels. | 1h    |        |
+
+## Woche 3 
+
+__04.05.2020 - 10.05.2020__
+
+| Datum      | Tätigkeit                                                    | Dauer | Zusatz |
+| ---------- | ------------------------------------------------------------ | ----- | ------ |
+| 05.05.2020 | Teambesprechung                                              | 1.5h  |        |
+| 07.05.2020 | Arbeiten an den Spezifikationen - Mockups - Systemübersicht - Ziele - Technologien | 2h    |        |
+| 08.05.2020 | Überarbeiten und Erweitern der Spezifikation - Mockups- Datenmodell - Schnittstellen - beschreibung - ziele, glossar | 3h    |        |
+| 10.05.2020 | Abarbeiten der mir zugewiesenen Issues                       | 0.5h  |        |
+| 10.05.2020 | Teambesprechung zur Vorstellung der Spezifikation            | 1h    |        |
 
 
 
 
 
-__Gesamte Zeit ca 5.5 Stunden__ 
+__Gesamte Zeit ca 16.25 Stunden__ 
+
