@@ -45,9 +45,18 @@ __04.05.2020 - 10.05.2020__
 | 09.05.2020 | Überarbeitung von Schnittstellen und Use-Case Diagrammen | 1,5h |
 | 09.05.2020 | Erstellung von Aktivitätsdiagrammen und einem Datenmodelldiagramm | 1,5h |
 | 09.05.2020 | Überarbeitung von Mockups und Ereignissen | 0,5h |
+| 10.05.2020 | Teambesprechung - Gesamtteam | 1h |
 
 
 
+## Woche 4 
+
+__11.05.2020 - 17.05.2020__
+
+| Datum      | Tätigkeit                                                   | Dauer |
+| ---------- | ----------------------------------------------------------- | ----- |
+| 11.05.2020 | Initiales Aufsetzen von NodeJS Backend und Angular Frontend | 2,5 h |
 
 
-__Gesamte Zeit 20,25 Stunden__ 
+
+__Gesamte Zeit 23,75 Stunden__ 
